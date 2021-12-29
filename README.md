@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Azkamir
-- 👀 I’m interested in ...
+- 👀 Interested in software development
 - 🌱 I’m a studnet of Software Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️
+- 📫 
 
 <!---
 Azkamir/Azkamir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
